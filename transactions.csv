@@ -1,0 +1,65 @@
+customer,amount,time,status,merchant
+Paul,986,4/17/2014,Undisputed,Just Brew It
+Paul,239,5/15/2014,Undisputed,Starbucks
+Paul,475,3/28/2014,Undisputed,Sears
+Paul,654,3/20/2014,Undisputed,Wallmart
+Jean,196,7/24/2014,Undisputed,Soccer for the City
+Jean,502,4/9/2014,Undisputed,Abercrombie
+Jean,848,5/29/2014,Undisputed,Wallmart
+Jean,802,3/11/2014,Undisputed,Amazon
+Jean,203,3/27/2014,Undisputed,Subway
+Dan,35,1/23/2014,Undisputed,MacDonalds
+Dan,605,1/27/2014,Undisputed,MacDonalds
+Dan,62,9/17/2014,Undisputed,Soccer for the City
+Dan,141,11/14/2014,Undisputed,Amazon
+Marc,134,4/14/2014,Undisputed,Amazon
+Marc,336,4/3/2014,Undisputed,American Apparel
+Marc,964,3/22/2014,Undisputed,Wallmart
+Marc,430,8/10/2014,Undisputed,Sears
+Marc,11,9/4/2014,Undisputed,Soccer for the City
+John,545,10/6/2014,Undisputed,Soccer for the City
+John,457,10/15/2014,Undisputed,Sprint
+John,468,7/29/2014,Undisputed,Justice
+John,768,11/28/2014,Undisputed,American Apparel
+John,921,3/12/2014,Undisputed,Just Brew It
+Zoey,740,12/15/2014,Undisputed,MacDonalds
+Zoey,510,11/27/2014,Undisputed,Abercrombie
+Zoey,414,1/20/2014,Undisputed,Just Brew It
+Zoey,721,7/17/2014,Undisputed,Amazon
+Zoey,353,10/25/2014,Undisputed,Subway
+Ava,681,12/28/2014,Undisputed,Sears
+Ava,87,2/19/2014,Undisputed,Wallmart
+Ava,533,8/6/2014,Undisputed,American Apparel
+Ava,723,1/8/2014,Undisputed,American Apparel
+Ava,627,5/20/2014,Undisputed,Just Brew It
+Olivia,74,9/4/2014,Undisputed,Soccer for the City
+Olivia,231,7/12/2014,Undisputed,Wallmart
+Olivia,924,10/4/2014,Undisputed,Soccer for the City
+Olivia,742,8/12/2014,Undisputed,Just Brew It
+Mia,276,12/24/2014,Undisputed,Soccer for the City
+Mia,66,4/16/2014,Undisputed,Starbucks
+Mia,467,12/23/2014,Undisputed,MacDonalds
+Mia,830,3/13/2014,Undisputed,Sears
+Mia,240,7/9/2014,Undisputed,Amazon
+Mia,164,12/26/2014,Undisputed,Soccer for the City
+Madison,630,10/6/2014,Undisputed,MacDonalds
+Madison,19,7/29/2014,Undisputed,Abercrombie
+Madison,352,12/16/2014,Undisputed,Subway
+Madison,147,8/3/2014,Undisputed,Amazon
+Madison,91,6/29/2014,Undisputed,Wallmart
+Paul,1021,7/18/2014,Disputed,Apple Store
+Paul,1732,5/10/2014,Disputed,Urban Outfitters
+Paul,1415,4/1/2014,Disputed,RadioShack
+Paul,1849,12/20/2014,Disputed,Macys
+Marc,1914,7/18/2014,Disputed,Apple Store
+Marc,1424,5/10/2014,Disputed,Urban Outfitters
+Marc,1721,4/1/2014,Disputed,RadioShack
+Marc,1003,12/20/2014,Disputed,Macys
+Olivia,1149,7/18/2014,Disputed,Apple Store
+Olivia,1152,8/10/2014,Disputed,Urban Outfitters
+Olivia,1884,8/1/2014,Disputed,RadioShack
+Olivia,1790,12/20/2014,Disputed,Macys
+Madison,1925,7/18/2014,Disputed,Apple Store
+Madison,1374,7/10/2014,Disputed,Urban Outfitters
+Madison,1368,7/1/2014,Disputed,RadioShack
+Madison,1816,12/20/2014,Disputed,Macys
